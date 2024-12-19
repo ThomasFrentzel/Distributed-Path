@@ -89,7 +89,7 @@ function visit() {
 
 To run the system, use the following commands:
 
-1. Run the `path.py` script with the respective nodes:
+1. Run the `path.py` script with the respective nodes, in separate terminals:
     ```bash
     python path.py A B
     python path.py B C D
