@@ -81,7 +81,8 @@ function visit() {
 ```
 
 ## Topology
-![Topology](https://github.com/user-attachments/assets/6e4ac133-9608-4387-a64c-ce62f5269c4a)
+
+<img src="https://github.com/user-attachments/assets/6e4ac133-9608-4387-a64c-ce62f5269c4a" width="800" />
 
 
 ## Execution
